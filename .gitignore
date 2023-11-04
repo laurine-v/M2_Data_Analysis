@@ -234,3 +234,7 @@ US_Inaugural_Addresses/US_Inaugural_Addresses/55_bush_george_w_2005.txt
 US_Inaugural_Addresses/US_Inaugural_Addresses/56_obama_2009.txt
 US_Inaugural_Addresses/US_Inaugural_Addresses/57_obama_2013.txt
 US_Inaugural_Addresses/US_Inaugural_Addresses/58_trump_2017.txt
+french_test_set.csv
+french_train_set.csv
+plots/age_distrib.png
+plots/gender_distrib.png
